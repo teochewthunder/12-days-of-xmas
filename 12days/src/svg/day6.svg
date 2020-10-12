@@ -1,0 +1,12 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <path transform="rotate(-9.74374, 80.75, 90.6699)" id="svg_31" d="m50.5,48.5c9.71762,-8.5 20.06218,-9 29.15285,-7.5c15.46459,5.66667 29.04836,18.33333 31.34715,35c-7.7323,19 -18.59931,27 -40.12435,27c-18.24007,9.66667 -19.95682,25.33333 -11.91192,38" fill-opacity="null" stroke-width="10.5" stroke="#ffaa56" fill="none"/>
+  <ellipse transform="rotate(1.46929, 119, 131.5)" ry="30" rx="64.5" id="svg_32" cy="131.5" cx="119" stroke-width="10.5" fill="#ffaa56"/>
+  <ellipse transform="rotate(-19.5546, 55.5, 48.5)" ry="6" rx="20" id="svg_34" cy="48.5" cx="55.5" fill-opacity="null" stroke-opacity="null" stroke-width="10.5" stroke="null" fill="#ffaa56"/>
+  <path transform="rotate(-17.4851, 31.5, 57.25)" id="svg_35" d="m39.5,52.5l-19.5,5.5l23,4l-3.5,-9.5z" stroke-opacity="null" stroke-width="10.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="8.5" rx="35" id="svg_36" cy="143" cx="137.5" stroke-opacity="null" stroke-width="10.5" stroke="null" fill="#ffd4aa"/>
+  <ellipse transform="rotate(-8.20338, 120, 123)" ry="4.175" rx="28.71157" id="svg_37" cy="123" cx="120" stroke-opacity="null" stroke-width="10.5" stroke="null" fill="#ffd4aa"/>
+  <ellipse transform="rotate(-22.0894, 106, 113.5)" ry="1.37347" rx="22.84629" id="svg_38" cy="113.5" cx="106" stroke-opacity="null" stroke-width="10.5" stroke="null" fill="#ffd4aa"/>
+ </g>
+</svg>

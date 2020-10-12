@@ -1,0 +1,34 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <ellipse ry="15.5" rx="5.5" id="svg_17" cy="98" cx="127" stroke-width="1.5" fill="#ffaa56"/>
+  <ellipse transform="matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 0, 0)" ry="15.5" rx="5.5" id="svg_16" cy="98" cx="73" stroke-width="1.5" fill="#ffaa56"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="15.5" rx="5.5" id="svg_13" cy="75" cx="127" stroke-width="1.5" fill="#ffaa56"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="15.5" rx="5.5" id="svg_12" cy="73" cx="73" stroke-width="1.5" fill="#ffaa56"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="12" rx="11.5" id="svg_9" cy="55.5" cx="122" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#005fbf"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="10.5" rx="8.5" id="svg_11" cy="57" cx="122" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#498acc"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="12" rx="11.5" id="svg_8" cy="56.5" cx="79" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#005fbf"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="10.5" rx="8.5" id="svg_10" cy="54" cx="79" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#498acc"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="29.5" rx="22.5" id="svg_5" cy="71" cx="100" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#005fbf"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="24.5" rx="26" id="svg_6" cy="104" cx="99.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#005fbf"/>
+  <rect id="svg_7" height="80" width="52" y="106.5" x="73.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#005fbf"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="29.5" rx="13" id="svg_14" cy="71" cx="99.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffd4aa"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="15.5" rx="14" id="svg_2" cy="29" cx="99.5" stroke-width="1.5" fill="#ffaa56"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" transform="rotate(50.0188, 92.5, 20)" ry="11.5" rx="7" id="svg_3" cy="20" cx="92.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" transform="rotate(-34.614, 106.5, 21)" ry="11.5" rx="7" id="svg_4" cy="21" cx="106.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="24.5" rx="19.5" id="svg_15" cy="104" cx="100" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffd4aa"/>
+  <path transform="matrix(1, 0, 0, 1, 0, 0)" id="svg_18" d="m117.5,111.5l27.5,-0.5l-6,34l-18,0" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#7f0000"/>
+  <ellipse ry="3" rx="3" id="svg_21" cy="30.5" cx="86.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_22" cy="36.5" cx="86.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_25" cy="42.5" cx="86.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_26" cy="48.5" cx="86.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_27" cy="54.5" cx="86.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_28" cy="59.5" cx="86.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_29" cy="32.5" cx="111.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_30" cy="38.5" cx="111.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_31" cy="44.5" cx="111.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_32" cy="50.5" cx="111.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_33" cy="56.5" cx="111.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+  <ellipse ry="3" rx="3" id="svg_34" cy="61.5" cx="111.5" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#ffff00"/>
+ </g>
+</svg>

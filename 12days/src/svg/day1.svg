@@ -1,0 +1,21 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <ellipse ry="36.5" rx="37.5" id="svg_2" cy="94.54999" cx="66" stroke-width="0" fill="#007f00"/>
+  <ellipse ry="36.5" rx="37.5" id="svg_3" cy="93.54999" cx="133" stroke-width="0" fill="#007f00"/>
+  <ellipse ry="36.5" rx="37.5" id="svg_4" cy="55.54999" cx="97" stroke-width="0" fill="#007f00"/>
+  <rect id="svg_5" height="106" width="9" y="82.04999" x="95.5" stroke-width="0" stroke="null" fill="#7f3f00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="91.04999" x2="137.5" y1="104.04999" x1="101.5" stroke-width="4.5" stroke="#7f3f00" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="106.04999" x2="99.5" y1="87.04999" x1="59.5" fill-opacity="null" stroke-width="4.5" stroke="#7f3f00" fill="none"/>
+  <ellipse ry="4.25" rx="6" id="svg_11" cy="77.9" cx="123.875" stroke-width="0" fill="#999999"/>
+  <path id="svg_17" d="m140.625,81.1l7.375,11.15l-2.125,1.25l-9.875,-7.125l4.625,-5.275z" stroke-opacity="null" stroke-width="0" stroke="null" fill="#7f7f7f"/>
+  <ellipse ry="6.25" rx="8.25" id="svg_9" cy="82.775" cx="133" stroke-width="0" fill="#999999"/>
+  <ellipse transform="rotate(27.134, 129.22, 84.3207)" ry="3.38678" rx="5" id="svg_12" cy="84.32073" cx="129.22033" stroke-width="0" fill="#e5e5e5"/>
+  <path id="svg_14" d="m119.625,75.35c1.16667,-1.24167 3.70833,-1.35833 6.5,-1.225c1,0.91667 1,2.45833 3.25,3.5c2.375,0.08333 4.875,-0.33333 7.125,0.625l3.125,2.5c-1.5,-0.625 -3.125,-1.625 -4.5,-1.75c-2.83333,-0.5 -4.91667,0.125 -8.5,-1.5c-0.5,-1.91667 -1.125,-1.70833 -1.875,-2.375l-5.125,0.225z" stroke-opacity="null" stroke-width="0" stroke="null" fill="#666666"/>
+  <ellipse ry="2.3125" rx="3.5" id="svg_15" cy="79.7125" cx="123.625" stroke-width="0" fill="#e5e5e5"/>
+  <path id="svg_18" d="m118,77.725l0.125,6.4l-0.125,-6.4z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#007f00"/>
+  <path id="svg_19" d="m118,78.6l0.75,5.275l-0.75,-5.275z" stroke-opacity="null" stroke-width="0" stroke="null" fill="#4c4c4c"/>
+  <path id="svg_20" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#007f00"/>
+  <path id="svg_21" d="m118,78.475l0.50595,8.025l1.61905,-5.5" stroke-opacity="null" stroke-width="0" stroke="null" fill="#444444"/>
+ </g>
+</svg>

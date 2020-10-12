@@ -1,0 +1,17 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="182.5" x2="102.5" y1="178.5" x1="107.5" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="189.5" x2="117.5" y1="178.5" x1="107.5" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="182.5" x2="122.5" y1="179.5" x1="107.5" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="180.5" x2="108.5" y1="149.5" x1="95.5" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="176.5" x2="124.5" y1="172.5" x1="129.5" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="183.5" x2="139.5" y1="172.5" x1="129.5" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="176.5" x2="144.5" y1="173.5" x1="129.5" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="174.5" x2="130.5" y1="143.5" x1="117.5" stroke-width="3.5" stroke="#191919" fill="none"/>
+  <path id="svg_1" d="m124.5,69.5c-8.83333,23.16667 -15.66667,25.33333 -25.5,37.5c-16.33333,15.33333 -44.66667,14.66667 -73,16c21.66667,31.33333 50.33333,37.66667 89,28c38.33333,-11.66667 38.66667,-45.33333 31,-74l-21.5,-7.5z" stroke-opacity="null" stroke-width="3.5" stroke="null" fill="#7f0000"/>
+  <ellipse ry="20" rx="19.5" id="svg_2" cy="60.5" cx="140" stroke-opacity="null" stroke-width="3.5" stroke="null" fill="#bf0000"/>
+  <path id="svg_3" d="m35.5,116.5c20.95776,-1.83333 33.84006,-0.66667 45.56872,-17.5c20.76549,-9 34.60915,-18 41.53098,-48c7.30638,30 0.76909,52 -13.84366,78c-17.49685,7.83333 -39.60825,8.66667 -73.25604,-12.5z" stroke-opacity="null" stroke-width="3.5" stroke="null" fill="#bf0000"/>
+  <path id="svg_14" d="m159.5,62.5l4.5,28.5l-15,-14l10.5,-14.5z" stroke-width="3.5" fill="#ffff00"/>
+ </g>
+</svg>

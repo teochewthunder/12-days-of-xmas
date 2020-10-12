@@ -1,0 +1,23 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <ellipse ry="34.5" rx="18.5" id="svg_47" cy="93" cx="98" stroke-width="0" fill="#661266"/>
+  <ellipse ry="14" rx="11.5" id="svg_46" cy="48.5" cx="97" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffaa56"/>
+  <rect id="svg_48" height="76" width="30" y="91.5" x="83.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#661266"/>
+  <ellipse ry="5" rx="13.5" id="svg_50" cy="168.5" cx="86" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000"/>
+  <ellipse ry="5" rx="13.5" id="svg_51" cy="168.5" cx="112" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000"/>
+  <line transform="rotate(6.85312, 76.4831, 64.529)" stroke-width="10" stroke="#661266" stroke-linecap="null" stroke-linejoin="null" id="svg_52" y2="63.529" x2="64.0141" y1="65.529" x1="88.95212" fill="none"/>
+  <line transform="rotate(20.8106, 57, 68.5)" stroke-linecap="null" stroke-linejoin="null" id="svg_54" y2="57.5" x2="64.5" y1="79.5" x1="49.5" fill-opacity="null" stroke-width="8" stroke="#661266" fill="none"/>
+  <line transform="rotate(116.374, 117.483, 65.529)" stroke-width="10" stroke="#661266" stroke-linecap="null" stroke-linejoin="null" id="svg_55" y2="64.529" x2="105.0141" y1="66.529" x1="129.95212" fill="none"/>
+  <line transform="rotate(-48.3231, 122, 45.5)" stroke-linecap="null" stroke-linejoin="null" id="svg_56" y2="34.5" x2="129.5" y1="56.5" x1="114.5" fill-opacity="null" stroke-width="8" stroke="#661266" fill="none"/>
+  <ellipse ry="6" rx="5.5" id="svg_57" cy="28.5" cx="116" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffaa56"/>
+  <ellipse ry="6" rx="5.5" id="svg_58" cy="80.5" cx="43" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffaa56"/>
+  <line transform="rotate(57.0693, 99, 28.5)" stroke-linecap="null" stroke-linejoin="null" id="svg_59" y2="17.5" x2="106.5" y1="39.5" x1="91.5" stroke-width="4" stroke="#4c4c4c" fill="none"/>
+  <line transform="rotate(76.7973, 61, 86.5)" stroke-linecap="null" stroke-linejoin="null" id="svg_60" y2="75.5" x2="68.5" y1="97.5" x1="53.5" stroke-width="4" stroke="#4c4c4c" fill="none"/>
+  <rect id="svg_61" height="27" width="52" y="98.5" x="72.5" stroke-width="4" fill="#7f0000"/>
+  <ellipse ry="9" rx="26" id="svg_62" cy="123.5" cx="98.5" stroke-width="4" fill="#7f0000"/>
+  <ellipse ry="9" rx="26" id="svg_63" cy="100.5" cx="98.5" stroke-width="4" fill="#ffaaaa"/>
+  <ellipse transform="rotate(-24.6189, 90.8432, 38.8845)" ry="4.06441" rx="9.22725" id="svg_64" cy="38.88448" cx="90.84325" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffff00"/>
+  <ellipse transform="rotate(17.6217, 101.056, 38.6765)" ry="3.64179" rx="9.44248" id="svg_65" cy="38.6765" cx="101.05567" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffff00"/>
+ </g>
+</svg>
