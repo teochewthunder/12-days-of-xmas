@@ -1,3 +1,34 @@
 .App {
-  text-align: center;
+    text-align: center;
+}
+
+.dayControl {
+	display: inline-block;
+	width: 4em;
+}
+
+.dayText {
+	color: red;
+	float: right;
+	width: 3em;
+}
+
+.dayButtons {
+	float: left;
+	width: 1em;
+	height: 100%;
+}
+
+.dayButtons .dayButton{
+	width: 100%;
+	height: 50%;
+	text-align: right;
+	background: transparent;
+	font-weight: normal;
+	font-size: 0.5em;
+	cursor: pointer;
+}
+
+.dayButtons .dayButton:hover{
+	font-weight: bold;
 }
