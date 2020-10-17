@@ -28,7 +28,7 @@ function App() {
     		setTimeout(() => {
     				setCurrentDay(toDay + 1);
     			},
-    			500
+    			100
     		);   		
     	}
     }
@@ -40,7 +40,7 @@ function App() {
     		setTimeout(() => {
     				setCurrentDay(toDay - 1);
     			},
-    			500
+    			100
     		);        	
     	}    	
     }
@@ -55,8 +55,8 @@ function App() {
     		</div>
 
     		<div className="dayButtons">
-    			<div className="dayButton" onClick={ BtnClickUp }>^</div>
-    			<div className="dayButton" onClick={ BtnClickDown }>^</div>
+    			<div className="dayButton" onClick={ BtnClickUp }>&#9650;</div>
+    			<div className="dayButton" onClick={ BtnClickDown }>&#9660;</div>
     		</div>
     	</div>
     );

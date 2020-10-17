@@ -24,11 +24,13 @@
 	height: 50%;
 	text-align: right;
 	background: transparent;
+	color: rgb(0, 0, 0);
 	font-weight: normal;
 	font-size: 0.5em;
 	cursor: pointer;
 }
 
 .dayButtons .dayButton:hover{
+	color: rgb(100, 100, 100);	
 	font-weight: bold;
 }
