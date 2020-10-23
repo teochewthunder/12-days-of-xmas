@@ -20,43 +20,32 @@ function App() {
     	"th"
     ]
 
-    const BtnClickUp = () => {
+    const BtnClickUp = () => {console.log("up");
     	if (currentDay < 12) {
-    		let toDay = currentDay;
-    		setCurrentDay(0);
-
-    		setTimeout(() => {
-    				setCurrentDay(toDay + 1);
-    			},
-    			100
-    		);   		
+    		setCurrentDay(currentDay + 1);		
     	}
     }
 
-    const BtnClickDown = () => {
+    const BtnClickDown = () => {console.log("down");
     	if (currentDay > 1) {
-    		let toDay = currentDay;
-    		setCurrentDay(0);
-    		setTimeout(() => {
-    				setCurrentDay(toDay - 1);
-    			},
-    			100
-    		);        	
+            setCurrentDay(currentDay - 1);       	
     	}    	
     }
 
     const dayControls = (
     	<div className="dayControl">
     		<div className="dayText">
-    		{ currentDay == 0 ? '' : currentDay }
-    		<sup> 
-    			{ currentDay == 0 ? '' : daySuffix[currentDay - 1]  }
-    		</sup>
+                <span data-testid="lblCurrentDay">
+	    		{ currentDay }
+                </span>
+	    		<sup> 
+	    			{ currentDay == 0 ? '' : daySuffix[currentDay - 1]  }
+	    		</sup>
     		</div>
 
     		<div className="dayButtons">
-    			<div className="dayButton" onClick={ BtnClickUp }>&#9650;</div>
-    			<div className="dayButton" onClick={ BtnClickDown }>&#9660;</div>
+    			<div className="dayButton" data-testid="BtnUp" onClick={ BtnClickUp }>&#9650;</div>
+    			<div className="dayButton" data-testid="BtnDown" onClick={ BtnClickDown }>&#9660;</div>
     		</div>
     	</div>
     );

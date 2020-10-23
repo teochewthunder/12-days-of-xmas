@@ -44,7 +44,7 @@ function Row(props) {
     return (
         <div 
             className={ 'Row' + (currentDay >= day ? '' : ' Hidden') } 
-            style={{transition:'all ' + (currentDay == 0 ? 0 : 0.5) + 's', transitionDelay: (currentDay == 0 ? 0 : ((currentDay + 1) - day) * 0.5) + 's'}}
+            style={{transition:'all 0.5s', transitionDelay: ((currentDay + 1 - day) * 0.5) + 's'}}
         >
             <h1>{ content[day].text }</h1>
             { images }
