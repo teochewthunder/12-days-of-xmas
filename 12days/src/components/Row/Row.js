@@ -37,14 +37,13 @@ function Row(props) {
     for (let i = 0; i < day; i++) arr.push('');
 
     const images = arr.map((item, index) => (
-            <img key={ day+'img'+index } src={ content[day].file } width="100" height="100" />
+            <img data-testid="imgDay" key={ day+'img'+index } src={ content[day].file } width="100" height="100" />
         )
     );
        
     return (
         <div 
             className={ 'Row' + (currentDay >= day ? '' : ' Hidden') } 
-            style={{transition:'all 0.5s', transitionDelay: ((currentDay + 1 - day) * 0.5) + 's'}}
         >
             <h1>{ content[day].text }</h1>
             { images }

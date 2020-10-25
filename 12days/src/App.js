@@ -39,7 +39,7 @@ function App() {
 	    		{ currentDay }
                 </span>
 	    		<sup> 
-	    			{ currentDay == 0 ? '' : daySuffix[currentDay - 1]  }
+	    			{ daySuffix[currentDay - 1] }
 	    		</sup>
     		</div>
 
