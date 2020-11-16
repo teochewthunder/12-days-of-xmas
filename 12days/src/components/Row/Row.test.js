@@ -3,7 +3,7 @@ import { render, screen } from "@testing-library/react";
 import Row from "./Row";
 
 let content = [
-    { text: '', file: '' },
+    { text: '' },
     { text: 'a partridge in a pear tree!' },
     { text: 'two turtle doves, and' },
     { text: 'three french hens' },
