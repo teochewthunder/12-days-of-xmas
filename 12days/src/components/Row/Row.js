@@ -40,7 +40,7 @@ function Row(props) {
             <img data-testid="imgDay" key={ day+'img'+index } src={ content[day].file } width="100" height="100" />
         )
     );
-       
+
     return (
         <div 
             className={ 'Row' + (currentDay >= day ? '' : ' Hidden') } 

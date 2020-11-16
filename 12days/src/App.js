@@ -18,41 +18,41 @@ function App() {
     	"th",
     	"th",
     	"th"
-    ]
+    ];
 
-    const BtnClickUp = () => {console.log("up");
-    	if (currentDay < 12) {
-    		setCurrentDay(currentDay + 1);		
-    	}
+    const BtnClickUp = () => {
+        if (currentDay < 12) {
+            setCurrentDay(currentDay + 1);        
+        }
     }
 
-    const BtnClickDown = () => {console.log("down");
-    	if (currentDay > 1) {
-            setCurrentDay(currentDay - 1);       	
-    	}    	
+    const BtnClickDown = () => {
+        if (currentDay > 1) {
+            setCurrentDay(currentDay - 1);           
+        }        
     }
 
     const dayControls = (
     	<div className="dayControl">
     		<div className="dayText">
                 <span data-testid="lblCurrentDay">
-	    		{ currentDay }
+                { currentDay }
                 </span>
-	    		<sup> 
-	    			{ daySuffix[currentDay - 1] }
-	    		</sup>
+                <sup> 
+                    { daySuffix[currentDay - 1] }
+                </sup>
     		</div>
 
     		<div className="dayButtons">
-    			<div className="dayButton" data-testid="BtnUp" onClick={ BtnClickUp }>&#9650;</div>
-    			<div className="dayButton" data-testid="BtnDown" onClick={ BtnClickDown }>&#9660;</div>
+                <div className="dayButton" data-testid="BtnUp" onClick={ BtnClickUp }>&#9650;</div>
+                <div className="dayButton" data-testid="BtnDown" onClick={ BtnClickDown }>&#9660;</div>
     		</div>
     	</div>
     );
 
     return (
         <div className="App">
-        	<h1>On the { dayControls } day of Christmas my true love gave to me</h1>
+            <h1>On the { dayControls } day of Christmas my true love gave to me</h1>
             <Row currentDay = {currentDay} day="12" />
             <Row currentDay = {currentDay} day="11" />
             <Row currentDay = {currentDay} day="10" />
@@ -64,7 +64,7 @@ function App() {
             <Row currentDay = {currentDay} day="4" />
             <Row currentDay = {currentDay} day="3" />
             <Row currentDay = {currentDay} day="2" />
-            <Row currentDay = {currentDay} day="1" />           
+            <Row currentDay = {currentDay} day="1" />            
         </div>
     );
 }
